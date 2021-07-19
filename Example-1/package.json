@@ -1,0 +1,11 @@
+{
+  "name": "example-1",
+  "version": "1.0.0",
+  "description": "Simple node package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Jairo Quintero",
+  "license": "ISC"
+}
